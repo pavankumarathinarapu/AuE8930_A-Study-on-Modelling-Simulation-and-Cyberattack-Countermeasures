@@ -1,5 +1,4 @@
 
-## Description
 This project aims to design and implement a Fuel Cell Electric Vehicle (FCEV) using MATLAB Simulink. It also explores cybersecurity aspects related to EVs.
 
 Electric vehicles (EVs) are gaining popularity as a sustainable
